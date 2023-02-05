@@ -1,0 +1,18 @@
+https://stackoverflow.com/a/30313091
+pythonw.exe is a GUI app for launching GUI/no-UI-at-all scripts.
+
+NO console window is opened.
+Execution is asynchronous:
+When invoked from a console window, the script is merely launched and the prompt returns right away, whether the script is still running or not.
+Standard streams sys.stdin, sys.stdout and sys.stderr are NOT available.
+Caution: Unless you take extra steps, this has potentially unexpected side effects:
+Unhandled exceptions cause the script to abort silently.
+In Python 2.x, simply trying to use print() can cause that to happen (in 3.x, print() simply has no effect).
+To prevent that from within your script, and to learn more, see this answer of mine.
+Ad-hoc, you can use output redirection:Thanks, @handle.
+pythonw.exe yourScript.pyw 1>stdout.txt 2>stderr.txt
+(from PowerShell:
+cmd /c pythonw.exe yourScript.pyw 1>stdout.txt 2>stderr.txt) to capture stdout and stderr output in files.
+If you're confident that use of print() is the only reason your script fails silently with pythonw.exe, and you're not interested in stdout output, use @handle's command from the comments:
+pythonw.exe yourScript.pyw 1>NUL 2>&1
+Caveat: This output redirection technique does not work when invoking *.pyw scripts directly (as opposed to by passing the script file path to pythonw.exe). See eryksun's 2nd comment and its follow-ups below.
