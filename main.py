@@ -64,10 +64,67 @@ def semester_setup():
     semester_start_seconds = time.mktime(semester_start)
     print("End Sec: "+str(semester_end_seconds))
     print("Begin Sec: "+str(semester_start_seconds))
-    for i in range(int(semester_start_seconds),int(semester_end_seconds), int(week.total_seconds())):
-        i=datetime.timedelta(seconds=i).total_seconds()
-        print(f"{time.localtime(i).tm_mday}/{time.localtime(i).tm_mon}/{time.localtime(i).tm_year} {time.localtime(i).tm_hour}")
 
+
+    all_classes=[]
+    xml_list=parse_xml()
+    count=0
+
+    #hafta
+    for i in range(int(semester_start_seconds),int(semester_end_seconds), int(week.total_seconds())):
+        count2=0
+
+        # hafta içersindeki ders sayısı-Gün rastgele seçilmiş. param fark etmez.
+        for j in xml_list['Gün']:
+            seconds=datetime.timedelta(seconds=i).total_seconds() # pazartesi saniye sayısı
+            count=count+1
+            # pazartesiye günleri ekle. aynı haftada 1den fazla eklenmemeli.
+            a=0
+            match j:
+                case 'Pazartesi':
+                    a=0
+                case 'Salı':
+                    a=1
+                case 'Çarşamba':
+                    a=2
+                case 'Perşembe':
+                    a=3
+                case 'Cuma':
+                    a=4
+                case 'Cumartesi':
+                    a=5
+                case 'Pazar':
+                    a=6
+            
+            seconds=seconds+a*60*60*24
+            print(time.localtime(seconds))
+
+            # pazartesiye saatleri ekle
+            seconds=seconds+(60*60*int(xml_list['Başlangıç Saati'][count2][0:2]))
+            # pazartesiye dakikaları ekle
+            seconds=seconds+(60*int(xml_list['Başlangıç Saati'][count2][3:5]))
+            tarih_struct=time.localtime(seconds)
+            print(tarih_struct)
+            tarih=f"{tarih_struct.tm_mday}/{tarih_struct.tm_mon}/{tarih_struct.tm_year} {tarih_struct.tm_hour}:{tarih_struct.tm_min}"
+            test={
+                "id": count,
+                "Başlangıç Saati": xml_list['Başlangıç Saati'][count2],
+                "Bitiş Saati": xml_list['Bitiş Saati'][count2],
+                "Gün": xml_list['Gün'][count2],
+                "Tarih": tarih,
+                "Ders Kodu-Adı": xml_list['Ders'][count2],
+                "Derslik": xml_list['Derslik'][count2]
+            }
+            all_classes.append(test)
+            count2=count2+1
+            
+            #all_classes['Dersler'].append(parse_xml())
+            #all_classes['Tarih'].append(f"{time.localtime(i).tm_mday}/{time.localtime(i).tm_mon}/{time.localtime(i).tm_year} {time.localtime(i).tm_hour}")
+
+    #print(all_classes)
+    json_object = json.dumps(all_classes, indent = 4,ensure_ascii=False).encode('utf8') 
+    with open('test.json','w',encoding='utf-8') as f:
+        f.write(json_object.decode())
 
 def parse_xml():
     xml_str=''
@@ -113,7 +170,7 @@ def parse_xml():
 
 
 if __name__=="__main__":
-    dersler_dict=parse_xml()
     semester_setup()
     #toast()
     #print(get_time())
+

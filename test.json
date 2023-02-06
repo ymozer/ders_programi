@@ -1,0 +1,2018 @@
+[
+    {
+        "id": 1,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 2,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 3,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 4,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 5,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "14/2/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 6,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "14/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 7,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "14/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 8,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 9,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 10,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 11,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 12,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 13,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/2/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 14,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "19/2/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 15,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 16,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 17,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 18,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 19,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "21/2/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 20,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "21/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 21,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "21/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 22,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 23,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 24,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 25,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 26,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 27,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/2/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 28,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "26/2/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 29,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/2/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 30,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/2/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 31,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 32,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 33,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "28/2/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 34,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "28/2/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 35,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "28/2/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 36,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "1/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 37,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "1/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 38,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "1/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 39,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "2/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 40,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "2/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 41,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "2/3/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 42,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "5/3/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 43,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "6/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 44,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "6/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 45,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "6/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 46,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "6/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 47,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "7/3/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 48,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "7/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 49,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "7/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 50,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "8/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 51,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "8/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 52,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "8/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 53,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "9/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 54,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "9/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 55,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "9/3/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 56,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "12/3/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 57,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 58,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 59,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 60,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "13/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 61,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "14/3/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 62,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "14/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 63,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "14/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 64,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 65,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 66,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "15/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 67,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 68,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 69,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "16/3/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 70,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "19/3/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 71,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 72,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 73,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 74,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "20/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 75,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "21/3/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 76,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "21/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 77,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "21/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 78,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 79,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 80,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "22/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 81,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 82,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 83,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "23/3/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 84,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "26/3/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 85,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 86,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 87,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 88,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "27/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 89,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "28/3/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 90,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "28/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 91,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "28/3/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 92,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "29/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 93,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "29/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 94,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "29/3/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 95,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "30/3/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 96,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "30/3/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 97,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "30/3/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 98,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "2/4/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 99,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "3/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 100,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "3/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 101,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "3/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 102,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "3/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 103,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "4/4/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 104,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "4/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 105,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "4/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 106,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "5/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 107,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "5/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 108,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "5/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 109,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "6/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 110,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "6/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 111,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "6/4/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 112,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "9/4/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 113,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "10/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 114,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "10/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 115,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "10/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 116,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "10/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 117,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "11/4/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 118,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "11/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 119,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "11/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 120,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "12/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 121,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "12/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 122,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "12/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 123,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "13/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 124,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "13/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 125,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "13/4/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 126,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "16/4/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 127,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "17/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 128,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "17/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 129,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "17/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 130,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "17/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 131,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "18/4/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 132,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "18/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 133,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "18/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 134,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "19/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 135,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "19/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 136,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "19/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 137,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "20/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 138,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "20/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 139,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "20/4/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 140,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "23/4/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 141,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "24/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 142,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "24/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 143,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "24/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 144,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "24/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 145,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "25/4/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 146,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "25/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 147,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "25/4/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 148,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "26/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 149,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "26/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 150,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "26/4/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 151,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "27/4/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 152,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "27/4/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 153,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "27/4/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 154,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "30/4/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 155,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "1/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 156,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "1/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 157,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "1/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 158,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "1/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 159,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "2/5/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 160,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "2/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 161,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "2/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 162,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "3/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 163,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "3/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 164,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "3/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 165,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "4/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 166,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "4/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 167,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "4/5/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 168,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "7/5/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 169,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "8/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 170,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "8/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 171,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "8/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 172,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "8/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 173,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "9/5/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 174,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "9/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 175,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "9/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 176,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "10/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 177,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "10/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 178,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "10/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 179,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "11/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 180,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "11/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 181,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "11/5/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 182,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "14/5/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 183,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "15/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 184,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "15/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 185,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "15/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 186,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "15/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 187,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "16/5/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 188,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "16/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 189,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "16/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 190,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "17/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 191,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "17/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 192,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "17/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 193,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "18/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 194,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "18/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 195,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "18/5/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 196,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "21/5/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 197,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "22/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 198,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "22/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 199,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "22/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 200,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "22/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 201,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "23/5/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 202,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "23/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 203,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "23/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 204,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "24/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 205,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "24/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 206,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "24/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 207,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "25/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 208,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "25/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 209,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "25/5/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 210,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "28/5/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    },
+    {
+        "id": 211,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazartesi",
+        "Tarih": "29/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 212,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Pazartesi",
+        "Tarih": "29/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE433 - Otonom Mobil Robotlar (AA01)",
+        "Derslik": "MA201 - Aydın Menderes Derslik Binası A Blok 201"
+    },
+    {
+        "id": 213,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Pazartesi",
+        "Tarih": "29/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 214,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Pazartesi",
+        "Tarih": "29/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 215,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Salı",
+        "Tarih": "30/5/2023 10:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 216,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "15:15",
+        "Gün": "Salı",
+        "Tarih": "30/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 217,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Salı",
+        "Tarih": "30/5/2023 15:30",
+        "Ders Kodu-Adı": "CSE214 - İstatistiksel Programlama (AA01)",
+        "Derslik": "MA206 - Aydın Menderes Derslik Binası A Blok 206"
+    },
+    {
+        "id": 218,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Çarşamba",
+        "Tarih": "31/5/2023 8:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 219,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Çarşamba",
+        "Tarih": "31/5/2023 10:30",
+        "Ders Kodu-Adı": "CSE419 - Yapay Zeka (AA01)",
+        "Derslik": "MA202 - Aydın Menderes Derslik Binası A Blok 202"
+    },
+    {
+        "id": 220,
+        "Başlangıç Saati": "13:30",
+        "Bitiş Saati": "16:15",
+        "Gün": "Çarşamba",
+        "Tarih": "31/5/2023 13:30",
+        "Ders Kodu-Adı": "CSE104 - Formel Mantık (AA01)",
+        "Derslik": "MA212 - Aydın Menderes Derslik Binası A Blok 212"
+    },
+    {
+        "id": 221,
+        "Başlangıç Saati": "08:30",
+        "Bitiş Saati": "10:15",
+        "Gün": "Perşembe",
+        "Tarih": "1/6/2023 8:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 222,
+        "Başlangıç Saati": "10:30",
+        "Bitiş Saati": "12:15",
+        "Gün": "Perşembe",
+        "Tarih": "1/6/2023 10:30",
+        "Ders Kodu-Adı": "CSE315 - Yapay Öğrenme (AA01)",
+        "Derslik": "MA112 - Aydın Menderes Derslik Binası A Blok 112"
+    },
+    {
+        "id": 223,
+        "Başlangıç Saati": "15:30",
+        "Bitiş Saati": "17:15",
+        "Gün": "Perşembe",
+        "Tarih": "1/6/2023 15:30",
+        "Ders Kodu-Adı": "MAT253 - Diferansiyel Denklemler (AA02)",
+        "Derslik": "AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)"
+    },
+    {
+        "id": 224,
+        "Başlangıç Saati": "10:00",
+        "Bitiş Saati": "10:15",
+        "Gün": "Pazar",
+        "Tarih": "4/6/2023 10:0",
+        "Ders Kodu-Adı": "İSG101 - İş Sağlığı ve Güvenliği (UZ01)",
+        "Derslik": "ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)"
+    }
+]
