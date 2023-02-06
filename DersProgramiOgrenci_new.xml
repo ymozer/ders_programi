@@ -1,0 +1,168 @@
+<Report xmlns:ns0="DersProgramiOgrenci">
+    <srBaslik>
+        <Report Name="RaporBaslik" tbxCaption="AYDIN ADNAN MENDERES ÜNİVERSİTESİ &#13;&#10;ÖĞRENCİ DERS PROGRAMI (22/23 BAHAR)" />
+    </srBaslik>
+    <Tablix2>
+        <Details_Collection>
+            <Details OgrenciNo="221805079" AdSoyad="Yusuf Metin ÖZER" BirimAd="Bilgisayar Mühendisliği (İngilizce)" />
+        </Details_Collection>
+    </Tablix2>
+    <Tablix6>
+        <id_Gun1_Collection>
+            <id_Gun1 GunAd="Pazartesi">
+                <Details3_Collection>
+                    <Details3 Textbox13="08:30" Textbox15="10:15" AdSoyad2="CSE433 - Otonom Mobil Robotlar (AA01)" MekanParentKodAd="MA201 - Aydın Menderes Derslik Binası A Blok 201" />
+                    <Details3 Textbox13="10:30" Textbox15="12:15" AdSoyad2="CSE433 - Otonom Mobil Robotlar (AA01)" MekanParentKodAd="MA201 - Aydın Menderes Derslik Binası A Blok 201" />
+                    <Details3 Textbox13="13:30" Textbox15="15:15" AdSoyad2="CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)" MekanParentKodAd="MA202 - Aydın Menderes Derslik Binası A Blok 202" />
+                    <Details3 Textbox13="15:30" Textbox15="17:15" AdSoyad2="CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)" MekanParentKodAd="MA202 - Aydın Menderes Derslik Binası A Blok 202" />
+                </Details3_Collection>
+            </id_Gun1>
+            <id_Gun1 GunAd="Salı">
+                <Details3_Collection>
+                    <Details3 Textbox13="10:30" Textbox15="12:15" AdSoyad2="MAT253 - Diferansiyel Denklemler (AA02)" MekanParentKodAd="AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)" />
+                    <Details3 Textbox13="13:30" Textbox15="15:15" AdSoyad2="CSE214 - İstatistiksel Programlama (AA01)" MekanParentKodAd="MA206 - Aydın Menderes Derslik Binası A Blok 206" />
+                    <Details3 Textbox13="15:30" Textbox15="17:15" AdSoyad2="CSE214 - İstatistiksel Programlama (AA01)" MekanParentKodAd="MA206 - Aydın Menderes Derslik Binası A Blok 206" />
+                </Details3_Collection>
+            </id_Gun1>
+            <id_Gun1 GunAd="Çarşamba">
+                <Details3_Collection>
+                    <Details3 Textbox13="08:30" Textbox15="10:15" AdSoyad2="CSE419 - Yapay Zeka (AA01)" MekanParentKodAd="MA202 - Aydın Menderes Derslik Binası A Blok 202" />
+                    <Details3 Textbox13="10:30" Textbox15="12:15" AdSoyad2="CSE419 - Yapay Zeka (AA01)" MekanParentKodAd="MA202 - Aydın Menderes Derslik Binası A Blok 202" />
+                    <Details3 Textbox13="13:30" Textbox15="16:15" AdSoyad2="CSE104 - Formel Mantık (AA01)" MekanParentKodAd="MA212 - Aydın Menderes Derslik Binası A Blok 212" />
+                </Details3_Collection>
+            </id_Gun1>
+            <id_Gun1 GunAd="Perşembe">
+                <Details3_Collection>
+                    <Details3 Textbox13="08:30" Textbox15="10:15" AdSoyad2="CSE315 - Yapay Öğrenme (AA01)" MekanParentKodAd="MA112 - Aydın Menderes Derslik Binası A Blok 112" />
+                    <Details3 Textbox13="10:30" Textbox15="12:15" AdSoyad2="CSE315 - Yapay Öğrenme (AA01)" MekanParentKodAd="MA112 - Aydın Menderes Derslik Binası A Blok 112" />
+                    <Details3 Textbox13="15:30" Textbox15="17:15" AdSoyad2="MAT253 - Diferansiyel Denklemler (AA02)" MekanParentKodAd="AAMA - Aydın Aytepe Merkez Kampüs MA (Aydın Menderes Derslik Binası A Blok)" />
+                </Details3_Collection>
+            </id_Gun1>
+            <id_Gun1 GunAd="Pazar">
+                <Details3_Collection>
+                    <Details3 Textbox13="10:00" Textbox15="10:15" AdSoyad2="İSG101 - İş Sağlığı ve Güvenliği (UZ01)" MekanParentKodAd="ADUZ - Aydın Adnan Menderes Üniversitesi UZ (Uzaktan Eğitim Portalı)" />
+                </Details3_Collection>
+            </id_Gun1>
+        </id_Gun1_Collection>
+    </Tablix6>
+    <Tablix4>
+        <GunAd4>
+            <Textbox65>
+                <Textbox67>
+                    <Textbox1 />
+                </Textbox67>
+            </Textbox65>
+        </GunAd4>
+        <grupDers_Collection>
+            <grupDers OgrenciNo3="CSE104 - Formel Mantık (AA01)">
+                <AKTS AKTS="5">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Prof. Dr. Yılmaz KILIÇASLAN" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="CSE214 - İstatistiksel Programlama (AA01)">
+                <AKTS AKTS="5">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Prof. Dr. Kadir KIZILKAYA" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="CSE315 - Yapay Öğrenme (AA01)">
+                <AKTS AKTS="6">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Doç. Dr. Ahmet Çağdaş SEÇKİN" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="CSE419 - Yapay Zeka (AA01)">
+                <AKTS AKTS="6">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Dr. Öğr. Üyesi Fatih SOYGAZİ" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="CSE433 - Otonom Mobil Robotlar (AA01)">
+                <AKTS AKTS="6">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Doç. Dr. Ahmet Çağdaş SEÇKİN" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="CSE434 - Biyomedikal Görüntü İşleme ve Yapay Öğrenme (AA01)">
+                <AKTS AKTS="6">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Doç. Dr. Ahmet Çağdaş SEÇKİN" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="İSG101 - İş Sağlığı ve Güvenliği (UZ01)">
+                <AKTS AKTS="2">
+                    <EgitimDilKod EgitimDilKod="TR">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="KP111 - Kariyer Planlama (UZ01) (Asenkron)">
+                <AKTS AKTS="2">
+                    <EgitimDilKod EgitimDilKod="TR">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+            <grupDers OgrenciNo3="MAT253 - Diferansiyel Denklemler (AA02)">
+                <AKTS AKTS="6">
+                    <EgitimDilKod EgitimDilKod="EN">
+                        <Textbox4 Textbox4="Evet">
+                            <groupDersSubePersonelAd_Collection>
+                                <groupDersSubePersonelAd DersSubePersonelAd="Dr. Öğr. Üyesi Ahmet GENÇ" />
+                            </groupDersSubePersonelAd_Collection>
+                        </Textbox4>
+                    </EgitimDilKod>
+                </AKTS>
+            </grupDers>
+        </grupDers_Collection>
+    </Tablix4>
+    <Tablix7>
+        <UnvanAdSoyad_Collection>
+            <UnvanAdSoyad UnvanAdSoyad="Doç. Dr. Ahmet Çağdaş SEÇKİN" EPosta="acseckin@adu.edu.tr" />
+            <UnvanAdSoyad UnvanAdSoyad="Dr. Öğr. Üyesi Ahmet GENÇ" EPosta="agenc@adu.edu.tr" />
+            <UnvanAdSoyad UnvanAdSoyad="Dr. Öğr. Üyesi Fatih SOYGAZİ" EPosta="ftekbacak@adu.edu.tr" />
+            <UnvanAdSoyad UnvanAdSoyad="Prof. Dr. Kadir KIZILKAYA" EPosta="kkizilkaya@adu.edu.tr" />
+            <UnvanAdSoyad UnvanAdSoyad="Prof. Dr. Yılmaz KILIÇASLAN" EPosta="yilmaz.kilicaslan@adu.edu.tr" />
+        </UnvanAdSoyad_Collection>
+    </Tablix7>
+    <Tablix8 />
+</Report>
