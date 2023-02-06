@@ -24,10 +24,15 @@ time_dict={
 }
 
 def datettime():
-    week=datetime.timedelta(weeks=1)
-    '''
-    calculate future classes and limit to end of the semester
-    '''
+    now_seconds=time.time()
+    now=get_time()
+    now_split=now.strip().split()
+    print(now_split)
+    print(time_struct)
+    all_classes=semester_setup()
+    
+    for i in all_classes:  
+        print(i['Başlangıç Saati'])
 
 def get_time():
     time_struct=time.gmtime()
@@ -38,7 +43,7 @@ def get_time():
     hour=time_struct.tm_hour
     minute=time_struct.tm_min
     seconds=time_struct.tm_sec
-    return (f"{time_dict[week_day]} / {day}.{month}.{year} / {hour+3}:{minute}::{seconds} ")
+    return (f"{time_dict[week_day]} {day}.{month}.{year} {hour+3}:{minute}::{seconds}")
 
 def toast():
     
@@ -55,15 +60,12 @@ def semester_setup():
     #(year, month, day,* hour, minute, second,* weekday, day of the year, daylight saving)
     #https://asd.gsfc.nasa.gov/Craig.Markwardt/doy2023.html
     week=datetime.timedelta(weeks=1)
-    print(week.total_seconds())
     semester_end = (2023, 5, 30, 0, 0, 0, 1, 150, 0)
     semester_start = (2023, 2, 13, 0, 0, 0, 0, 44, 0)
     
     # convert time_tuple to seconds since epoch
     semester_end_seconds= time.mktime(semester_end)
     semester_start_seconds = time.mktime(semester_start)
-    print("End Sec: "+str(semester_end_seconds))
-    print("Begin Sec: "+str(semester_start_seconds))
 
 
     all_classes=[]
@@ -97,14 +99,12 @@ def semester_setup():
                     a=6
             
             seconds=seconds+a*60*60*24
-            print(time.localtime(seconds))
 
             # pazartesiye saatleri ekle
             seconds=seconds+(60*60*int(xml_list['Başlangıç Saati'][count2][0:2]))
             # pazartesiye dakikaları ekle
             seconds=seconds+(60*int(xml_list['Başlangıç Saati'][count2][3:5]))
             tarih_struct=time.localtime(seconds)
-            print(tarih_struct)
             tarih=f"{tarih_struct.tm_mday}/{tarih_struct.tm_mon}/{tarih_struct.tm_year} {tarih_struct.tm_hour}:{tarih_struct.tm_min}"
             test={
                 "id": count,
@@ -113,18 +113,16 @@ def semester_setup():
                 "Gün": xml_list['Gün'][count2],
                 "Tarih": tarih,
                 "Ders Kodu-Adı": xml_list['Ders'][count2],
-                "Derslik": xml_list['Derslik'][count2]
+                "Derslik": xml_list['Derslik'][count2],
+                "Tamamlandı mı?": False
             }
             all_classes.append(test)
             count2=count2+1
-            
-            #all_classes['Dersler'].append(parse_xml())
-            #all_classes['Tarih'].append(f"{time.localtime(i).tm_mday}/{time.localtime(i).tm_mon}/{time.localtime(i).tm_year} {time.localtime(i).tm_hour}")
 
-    #print(all_classes)
     json_object = json.dumps(all_classes, indent = 4,ensure_ascii=False).encode('utf8') 
     with open('test.json','w',encoding='utf-8') as f:
         f.write(json_object.decode())
+    return all_classes
 
 def parse_xml():
     xml_str=''
@@ -171,6 +169,7 @@ def parse_xml():
 
 if __name__=="__main__":
     semester_setup()
+    print(get_time())
+    datettime()
     #toast()
-    #print(get_time())
 
