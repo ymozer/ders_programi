@@ -23,16 +23,63 @@ time_dict={
     6 : "Pazar"
 }
 
-def datettime():
+time_dict2={
+    "Pazartesi" : 0,
+    "Salı"      : 1,
+    "Çarşamba"  : 2,
+    "Perşembe"  : 3,
+    "Cuma"      : 4,
+    "Cumartesi" : 5,
+    "Pazar"     : 6
+}
+
+def notify():
+    '''
+    Generate json file with time_till_class() method and read it periodically
+    if smallest remaing time of a class that is not 
+        completed smaller than specified time:
+        
+        then notify user with TOAST.  
+    '''
+
+def time_till_class():
+    now=get_time()                                       
     now_seconds=time.time()
-    now=get_time()
     now_split=now.strip().split()
-    print(now_split)
-    print(time_struct)
-    all_classes=semester_setup()
-    
+    all_classes=semester_setup() #data array
+    new_all_classes=[]
     for i in all_classes:  
-        print(i['Başlangıç Saati'])
+        class_info={
+            "id_class": int(i["id"]),
+            "class_name": i["Ders Kodu-Adı"],
+            "class_place": i["Derslik"],
+            "start_hour": int(i["Başlangıç Saati"][0:2]),
+            "start_min":int(i["Başlangıç Saati"][4:5]),
+            "end_hour": int(i["Bitiş Saati"][0:2]),
+            "end_min":int(i["Bitiş Saati"][4:5]),
+            "year": int(i["Tarih"][2]),
+            "month": int(i["Tarih"][1]),
+            "day": int(i["Tarih"][0]),
+            "day_verbal": i["Gün"],
+            "completed": i["Tamamlandı mı?"],
+            "kalan": i["Kalan Zaman"],
+        }
+        tuplle=(class_info["year"],class_info["month"],class_info["day"],class_info["start_hour"],class_info["start_min"],0, time_dict2[class_info["day_verbal"]],-1 ,0)
+        all_classes_struct=time.mktime(tuplle)
+        remaining_time=datetime.timedelta(seconds=all_classes_struct-now_seconds)
+        class_info["kalan"] = remaining_time.total_seconds()
+        
+        if all_classes_struct > now_seconds:
+             class_info["completed"]=False
+        else:
+            class_info["completed"]=True
+
+        new_all_classes.append(class_info)
+        #print(f"Ders: {all_classes_struct}\t Şimdi: {now_seconds}\t Fark: {remaining_time}")
+        json_object = json.dumps(new_all_classes, indent = 4,ensure_ascii=False).encode('utf8') 
+        with open('test.json','w',encoding='utf-8') as f:
+            f.write(json_object.decode())
+    return remaining_time
 
 def get_time():
     time_struct=time.gmtime()
@@ -81,31 +128,15 @@ def semester_setup():
             seconds=datetime.timedelta(seconds=i).total_seconds() # pazartesi saniye sayısı
             count=count+1
             # pazartesiye günleri ekle. aynı haftada 1den fazla eklenmemeli.
-            a=0
-            match j:
-                case 'Pazartesi':
-                    a=0
-                case 'Salı':
-                    a=1
-                case 'Çarşamba':
-                    a=2
-                case 'Perşembe':
-                    a=3
-                case 'Cuma':
-                    a=4
-                case 'Cumartesi':
-                    a=5
-                case 'Pazar':
-                    a=6
-            
-            seconds=seconds+a*60*60*24
+
+            seconds=seconds+time_dict2[j]*60*60*24
 
             # pazartesiye saatleri ekle
             seconds=seconds+(60*60*int(xml_list['Başlangıç Saati'][count2][0:2]))
             # pazartesiye dakikaları ekle
             seconds=seconds+(60*int(xml_list['Başlangıç Saati'][count2][3:5]))
             tarih_struct=time.localtime(seconds)
-            tarih=f"{tarih_struct.tm_mday}/{tarih_struct.tm_mon}/{tarih_struct.tm_year} {tarih_struct.tm_hour}:{tarih_struct.tm_min}"
+            tarih=( tarih_struct.tm_mday, tarih_struct.tm_mon, tarih_struct.tm_year, tarih_struct.tm_hour, tarih_struct.tm_min)
             test={
                 "id": count,
                 "Başlangıç Saati": xml_list['Başlangıç Saati'][count2],
@@ -114,14 +145,11 @@ def semester_setup():
                 "Tarih": tarih,
                 "Ders Kodu-Adı": xml_list['Ders'][count2],
                 "Derslik": xml_list['Derslik'][count2],
-                "Tamamlandı mı?": False
+                "Kalan Zaman": 0.0,
+                "Tamamlandı mı?": 'False'
             }
             all_classes.append(test)
             count2=count2+1
-
-    json_object = json.dumps(all_classes, indent = 4,ensure_ascii=False).encode('utf8') 
-    with open('test.json','w',encoding='utf-8') as f:
-        f.write(json_object.decode())
     return all_classes
 
 def parse_xml():
@@ -161,8 +189,6 @@ def parse_xml():
             test['Bitiş Saati'].append(j.attrib['Textbox15'])
             test['Ders'].append(j.attrib['AdSoyad2'])
             test['Derslik'].append(j.attrib['MekanParentKodAd'])
-    #json_object = json.dumps(test, indent = 4,ensure_ascii=False).encode('utf8') 
-    #print(json_object.decode())
     return test
 
 
@@ -170,6 +196,6 @@ def parse_xml():
 if __name__=="__main__":
     semester_setup()
     print(get_time())
-    datettime()
+    print(time_till_class())
     #toast()
 
