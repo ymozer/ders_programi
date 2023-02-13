@@ -13,6 +13,7 @@ from windows_toasts import ToastActivatedEventArgs, ToastDuration
 from windows_toasts.toast_document import ToastDocument
 from windows_toasts import WindowsToaster, ToastText1
 
+notified=0
 
 time_dict = {
     0: "Pazartesi",
@@ -50,11 +51,13 @@ def notify():
                 calculated_rem=datetime.timedelta(seconds=i['kalan'])
                 print(calculated_rem)
                 if calculated_rem < datetime.timedelta(minutes=15):
+                    print('Allooooooo')
                     wintoaster = WindowsToaster('Ders Başlıyor')
                     newToast = ToastText1()
                     newToast.SetBody(f'{i["class_name"]}\n{i["class_place"]}\n{i["start_hour"]}:{i["start_min"]}')
                     newToast.on_activated = lambda _: print('Toast clicked!')
                     wintoaster.show_toast(newToast)
+                    notified=notified+1
 
                 break #because of the json file is sequential
             else:
@@ -218,15 +221,18 @@ def parse_xml():
 if __name__ == "__main__":
     semester_setup()
     s = sched.scheduler()
+    s.enter
     while True:
         print("Parse Event Start Time : ", get_time(), "\n")
-        event1 = s.enter(60*5, 1, time_till_class, argument=())
+        event1 = s.enter(60*10, 1, time_till_class, argument=())
         print("Parse Event Created : \n", event1)
         s.run()
         print("Parse Event End Time : ", get_time())        
         
-        print("Toast Event Start Time : ", get_time(), "\n")
-        event2 = s.enter(1, 1, time_till_class, argument=())
-        print("Toast Event Created : \n", event1)
-        s.run()
-        print("Toast Event End Time : ", get_time())
+        if notified <3:
+            print("Toast Event Start Time : ", get_time(), "\n")
+            event2 = s.enter(1, 1, notify, argument=())
+            print("Toast Event Created : \n", event1)
+            s.run()
+            print("Toast Event End Time : ", get_time())
+            notified=0

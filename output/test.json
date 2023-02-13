@@ -11,8 +11,8 @@
     "month": 2,
     "day": 13,
     "day_verbal": "Pazartesi",
-    "completed": false,
-    "kalan": 242820.845757
+    "completed": true,
+    "kalan": -27498.358181
   },
   {
     "id_class": 2,
@@ -26,8 +26,8 @@
     "month": 2,
     "day": 13,
     "day_verbal": "Pazartesi",
-    "completed": false,
-    "kalan": 250020.845757
+    "completed": true,
+    "kalan": -20298.358181
   },
   {
     "id_class": 3,
@@ -41,8 +41,8 @@
     "month": 2,
     "day": 13,
     "day_verbal": "Pazartesi",
-    "completed": false,
-    "kalan": 260820.845757
+    "completed": true,
+    "kalan": -9498.358181
   },
   {
     "id_class": 4,
@@ -56,8 +56,8 @@
     "month": 2,
     "day": 13,
     "day_verbal": "Pazartesi",
-    "completed": false,
-    "kalan": 268020.845757
+    "completed": true,
+    "kalan": -2298.358181
   },
   {
     "id_class": 5,
@@ -72,7 +72,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 336420.845757
+    "kalan": 66101.641819
   },
   {
     "id_class": 6,
@@ -87,7 +87,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 347220.845757
+    "kalan": 76901.641819
   },
   {
     "id_class": 7,
@@ -102,7 +102,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 354420.845757
+    "kalan": 84101.641819
   },
   {
     "id_class": 8,
@@ -117,7 +117,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 415620.845757
+    "kalan": 145301.641819
   },
   {
     "id_class": 9,
@@ -132,7 +132,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 422820.845757
+    "kalan": 152501.641819
   },
   {
     "id_class": 10,
@@ -147,7 +147,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 433620.845757
+    "kalan": 163301.641819
   },
   {
     "id_class": 11,
@@ -162,7 +162,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 502020.845757
+    "kalan": 231701.641819
   },
   {
     "id_class": 12,
@@ -177,7 +177,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 509220.845757
+    "kalan": 238901.641819
   },
   {
     "id_class": 13,
@@ -192,7 +192,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 527220.845757
+    "kalan": 256901.641819
   },
   {
     "id_class": 14,
@@ -207,7 +207,7 @@
     "day": 19,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 766620.845757
+    "kalan": 496301.641819
   },
   {
     "id_class": 15,
@@ -222,7 +222,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 847620.845757
+    "kalan": 577301.641819
   },
   {
     "id_class": 16,
@@ -237,7 +237,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 854820.845757
+    "kalan": 584501.641819
   },
   {
     "id_class": 17,
@@ -252,7 +252,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 865620.845757
+    "kalan": 595301.641819
   },
   {
     "id_class": 18,
@@ -267,7 +267,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 872820.845757
+    "kalan": 602501.641819
   },
   {
     "id_class": 19,
@@ -282,7 +282,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 941220.845757
+    "kalan": 670901.641819
   },
   {
     "id_class": 20,
@@ -297,7 +297,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 952020.845757
+    "kalan": 681701.641819
   },
   {
     "id_class": 21,
@@ -312,7 +312,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 959220.845757
+    "kalan": 688901.641819
   },
   {
     "id_class": 22,
@@ -327,7 +327,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1020420.845757
+    "kalan": 750101.641819
   },
   {
     "id_class": 23,
@@ -342,7 +342,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1027620.845757
+    "kalan": 757301.641819
   },
   {
     "id_class": 24,
@@ -357,7 +357,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1038420.845757
+    "kalan": 768101.641819
   },
   {
     "id_class": 25,
@@ -372,7 +372,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1106820.845757
+    "kalan": 836501.641819
   },
   {
     "id_class": 26,
@@ -387,7 +387,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1114020.845757
+    "kalan": 843701.641819
   },
   {
     "id_class": 27,
@@ -402,7 +402,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1132020.845757
+    "kalan": 861701.641819
   },
   {
     "id_class": 28,
@@ -417,7 +417,7 @@
     "day": 26,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 1371420.845757
+    "kalan": 1101101.641819
   },
   {
     "id_class": 29,
@@ -432,7 +432,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 1452420.845757
+    "kalan": 1182101.641819
   },
   {
     "id_class": 30,
@@ -447,7 +447,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 1459620.845757
+    "kalan": 1189301.641819
   },
   {
     "id_class": 31,
@@ -462,7 +462,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 1470420.845757
+    "kalan": 1200101.641819
   },
   {
     "id_class": 32,
@@ -477,7 +477,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 1477620.845757
+    "kalan": 1207301.641819
   },
   {
     "id_class": 33,
@@ -492,7 +492,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 1546020.845757
+    "kalan": 1275701.641819
   },
   {
     "id_class": 34,
@@ -507,7 +507,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 1556820.845757
+    "kalan": 1286501.641819
   },
   {
     "id_class": 35,
@@ -522,7 +522,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 1564020.845757
+    "kalan": 1293701.641819
   },
   {
     "id_class": 36,
@@ -537,7 +537,7 @@
     "day": 1,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1625220.845757
+    "kalan": 1354901.641819
   },
   {
     "id_class": 37,
@@ -552,7 +552,7 @@
     "day": 1,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1632420.845757
+    "kalan": 1362101.641819
   },
   {
     "id_class": 38,
@@ -567,7 +567,7 @@
     "day": 1,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 1643220.845757
+    "kalan": 1372901.641819
   },
   {
     "id_class": 39,
@@ -582,7 +582,7 @@
     "day": 2,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1711620.845757
+    "kalan": 1441301.641819
   },
   {
     "id_class": 40,
@@ -597,7 +597,7 @@
     "day": 2,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1718820.845757
+    "kalan": 1448501.641819
   },
   {
     "id_class": 41,
@@ -612,7 +612,7 @@
     "day": 2,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 1736820.845757
+    "kalan": 1466501.641819
   },
   {
     "id_class": 42,
@@ -627,7 +627,7 @@
     "day": 5,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 1976220.845757
+    "kalan": 1705901.641819
   },
   {
     "id_class": 43,
@@ -642,7 +642,7 @@
     "day": 6,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2057220.845757
+    "kalan": 1786901.641819
   },
   {
     "id_class": 44,
@@ -657,7 +657,7 @@
     "day": 6,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2064420.845757
+    "kalan": 1794101.641819
   },
   {
     "id_class": 45,
@@ -672,7 +672,7 @@
     "day": 6,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2075220.845757
+    "kalan": 1804901.641819
   },
   {
     "id_class": 46,
@@ -687,7 +687,7 @@
     "day": 6,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2082420.845757
+    "kalan": 1812101.641819
   },
   {
     "id_class": 47,
@@ -702,7 +702,7 @@
     "day": 7,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2150820.845757
+    "kalan": 1880501.641819
   },
   {
     "id_class": 48,
@@ -717,7 +717,7 @@
     "day": 7,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2161620.845757
+    "kalan": 1891301.641819
   },
   {
     "id_class": 49,
@@ -732,7 +732,7 @@
     "day": 7,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2168820.845757
+    "kalan": 1898501.641819
   },
   {
     "id_class": 50,
@@ -747,7 +747,7 @@
     "day": 8,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2230020.845757
+    "kalan": 1959701.641819
   },
   {
     "id_class": 51,
@@ -762,7 +762,7 @@
     "day": 8,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2237220.845757
+    "kalan": 1966901.641819
   },
   {
     "id_class": 52,
@@ -777,7 +777,7 @@
     "day": 8,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2248020.845757
+    "kalan": 1977701.641819
   },
   {
     "id_class": 53,
@@ -792,7 +792,7 @@
     "day": 9,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2316420.845757
+    "kalan": 2046101.641819
   },
   {
     "id_class": 54,
@@ -807,7 +807,7 @@
     "day": 9,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2323620.845757
+    "kalan": 2053301.641819
   },
   {
     "id_class": 55,
@@ -822,7 +822,7 @@
     "day": 9,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2341620.845757
+    "kalan": 2071301.641819
   },
   {
     "id_class": 56,
@@ -837,7 +837,7 @@
     "day": 12,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 2581020.845757
+    "kalan": 2310701.641819
   },
   {
     "id_class": 57,
@@ -852,7 +852,7 @@
     "day": 13,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2662020.845757
+    "kalan": 2391701.641819
   },
   {
     "id_class": 58,
@@ -867,7 +867,7 @@
     "day": 13,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2669220.845757
+    "kalan": 2398901.641819
   },
   {
     "id_class": 59,
@@ -882,7 +882,7 @@
     "day": 13,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2680020.845757
+    "kalan": 2409701.641819
   },
   {
     "id_class": 60,
@@ -897,7 +897,7 @@
     "day": 13,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 2687220.845757
+    "kalan": 2416901.641819
   },
   {
     "id_class": 61,
@@ -912,7 +912,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2755620.845757
+    "kalan": 2485301.641819
   },
   {
     "id_class": 62,
@@ -927,7 +927,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2766420.845757
+    "kalan": 2496101.641819
   },
   {
     "id_class": 63,
@@ -942,7 +942,7 @@
     "day": 14,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 2773620.845757
+    "kalan": 2503301.641819
   },
   {
     "id_class": 64,
@@ -957,7 +957,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2834820.845757
+    "kalan": 2564501.641819
   },
   {
     "id_class": 65,
@@ -972,7 +972,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2842020.845757
+    "kalan": 2571701.641819
   },
   {
     "id_class": 66,
@@ -987,7 +987,7 @@
     "day": 15,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 2852820.845757
+    "kalan": 2582501.641819
   },
   {
     "id_class": 67,
@@ -1002,7 +1002,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2921220.845757
+    "kalan": 2650901.641819
   },
   {
     "id_class": 68,
@@ -1017,7 +1017,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2928420.845757
+    "kalan": 2658101.641819
   },
   {
     "id_class": 69,
@@ -1032,7 +1032,7 @@
     "day": 16,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 2946420.845757
+    "kalan": 2676101.641819
   },
   {
     "id_class": 70,
@@ -1047,7 +1047,7 @@
     "day": 19,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 3185820.845757
+    "kalan": 2915501.641819
   },
   {
     "id_class": 71,
@@ -1062,7 +1062,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3266820.845757
+    "kalan": 2996501.641819
   },
   {
     "id_class": 72,
@@ -1077,7 +1077,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3274020.845757
+    "kalan": 3003701.641819
   },
   {
     "id_class": 73,
@@ -1092,7 +1092,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3284820.845757
+    "kalan": 3014501.641819
   },
   {
     "id_class": 74,
@@ -1107,7 +1107,7 @@
     "day": 20,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3292020.845757
+    "kalan": 3021701.641819
   },
   {
     "id_class": 75,
@@ -1122,7 +1122,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3360420.845757
+    "kalan": 3090101.641819
   },
   {
     "id_class": 76,
@@ -1137,7 +1137,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3371220.845757
+    "kalan": 3100901.641819
   },
   {
     "id_class": 77,
@@ -1152,7 +1152,7 @@
     "day": 21,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3378420.845757
+    "kalan": 3108101.641819
   },
   {
     "id_class": 78,
@@ -1167,7 +1167,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 3439620.845757
+    "kalan": 3169301.641819
   },
   {
     "id_class": 79,
@@ -1182,7 +1182,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 3446820.845757
+    "kalan": 3176501.641819
   },
   {
     "id_class": 80,
@@ -1197,7 +1197,7 @@
     "day": 22,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 3457620.845757
+    "kalan": 3187301.641819
   },
   {
     "id_class": 81,
@@ -1212,7 +1212,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 3526020.845757
+    "kalan": 3255701.641819
   },
   {
     "id_class": 82,
@@ -1227,7 +1227,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 3533220.845757
+    "kalan": 3262901.641819
   },
   {
     "id_class": 83,
@@ -1242,7 +1242,7 @@
     "day": 23,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 3551220.845757
+    "kalan": 3280901.641819
   },
   {
     "id_class": 84,
@@ -1257,7 +1257,7 @@
     "day": 26,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 3790620.845757
+    "kalan": 3520301.641819
   },
   {
     "id_class": 85,
@@ -1272,7 +1272,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3871620.845757
+    "kalan": 3601301.641819
   },
   {
     "id_class": 86,
@@ -1287,7 +1287,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3878820.845757
+    "kalan": 3608501.641819
   },
   {
     "id_class": 87,
@@ -1302,7 +1302,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3889620.845757
+    "kalan": 3619301.641819
   },
   {
     "id_class": 88,
@@ -1317,7 +1317,7 @@
     "day": 27,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 3896820.845757
+    "kalan": 3626501.641819
   },
   {
     "id_class": 89,
@@ -1332,7 +1332,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3965220.845757
+    "kalan": 3694901.641819
   },
   {
     "id_class": 90,
@@ -1347,7 +1347,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3976020.845757
+    "kalan": 3705701.641819
   },
   {
     "id_class": 91,
@@ -1362,7 +1362,7 @@
     "day": 28,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 3983220.845757
+    "kalan": 3712901.641819
   },
   {
     "id_class": 92,
@@ -1377,7 +1377,7 @@
     "day": 29,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4044420.845757
+    "kalan": 3774101.641819
   },
   {
     "id_class": 93,
@@ -1392,7 +1392,7 @@
     "day": 29,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4051620.845757
+    "kalan": 3781301.641819
   },
   {
     "id_class": 94,
@@ -1407,7 +1407,7 @@
     "day": 29,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4062420.845757
+    "kalan": 3792101.641819
   },
   {
     "id_class": 95,
@@ -1422,7 +1422,7 @@
     "day": 30,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4130820.845757
+    "kalan": 3860501.641819
   },
   {
     "id_class": 96,
@@ -1437,7 +1437,7 @@
     "day": 30,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4138020.845757
+    "kalan": 3867701.641819
   },
   {
     "id_class": 97,
@@ -1452,7 +1452,7 @@
     "day": 30,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4156020.845757
+    "kalan": 3885701.641819
   },
   {
     "id_class": 98,
@@ -1467,7 +1467,7 @@
     "day": 2,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 4395420.845757
+    "kalan": 4125101.641819
   },
   {
     "id_class": 99,
@@ -1482,7 +1482,7 @@
     "day": 3,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 4476420.845757
+    "kalan": 4206101.641819
   },
   {
     "id_class": 100,
@@ -1497,7 +1497,7 @@
     "day": 3,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 4483620.845757
+    "kalan": 4213301.641819
   },
   {
     "id_class": 101,
@@ -1512,7 +1512,7 @@
     "day": 3,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 4494420.845757
+    "kalan": 4224101.641819
   },
   {
     "id_class": 102,
@@ -1527,7 +1527,7 @@
     "day": 3,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 4501620.845757
+    "kalan": 4231301.641819
   },
   {
     "id_class": 103,
@@ -1542,7 +1542,7 @@
     "day": 4,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 4570020.845757
+    "kalan": 4299701.641819
   },
   {
     "id_class": 104,
@@ -1557,7 +1557,7 @@
     "day": 4,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 4580820.845757
+    "kalan": 4310501.641819
   },
   {
     "id_class": 105,
@@ -1572,7 +1572,7 @@
     "day": 4,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 4588020.845757
+    "kalan": 4317701.641819
   },
   {
     "id_class": 106,
@@ -1587,7 +1587,7 @@
     "day": 5,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4649220.845757
+    "kalan": 4378901.641819
   },
   {
     "id_class": 107,
@@ -1602,7 +1602,7 @@
     "day": 5,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4656420.845757
+    "kalan": 4386101.641819
   },
   {
     "id_class": 108,
@@ -1617,7 +1617,7 @@
     "day": 5,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 4667220.845757
+    "kalan": 4396901.641819
   },
   {
     "id_class": 109,
@@ -1632,7 +1632,7 @@
     "day": 6,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4735620.845757
+    "kalan": 4465301.641819
   },
   {
     "id_class": 110,
@@ -1647,7 +1647,7 @@
     "day": 6,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4742820.845757
+    "kalan": 4472501.641819
   },
   {
     "id_class": 111,
@@ -1662,7 +1662,7 @@
     "day": 6,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 4760820.845757
+    "kalan": 4490501.641819
   },
   {
     "id_class": 112,
@@ -1677,7 +1677,7 @@
     "day": 9,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 5000220.845757
+    "kalan": 4729901.641819
   },
   {
     "id_class": 113,
@@ -1692,7 +1692,7 @@
     "day": 10,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5081220.845757
+    "kalan": 4810901.641819
   },
   {
     "id_class": 114,
@@ -1707,7 +1707,7 @@
     "day": 10,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5088420.845757
+    "kalan": 4818101.641819
   },
   {
     "id_class": 115,
@@ -1722,7 +1722,7 @@
     "day": 10,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5099220.845757
+    "kalan": 4828901.641819
   },
   {
     "id_class": 116,
@@ -1737,7 +1737,7 @@
     "day": 10,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5106420.845757
+    "kalan": 4836101.641819
   },
   {
     "id_class": 117,
@@ -1752,7 +1752,7 @@
     "day": 11,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5174820.845757
+    "kalan": 4904501.641819
   },
   {
     "id_class": 118,
@@ -1767,7 +1767,7 @@
     "day": 11,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5185620.845757
+    "kalan": 4915301.641819
   },
   {
     "id_class": 119,
@@ -1782,7 +1782,7 @@
     "day": 11,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5192820.845757
+    "kalan": 4922501.641819
   },
   {
     "id_class": 120,
@@ -1797,7 +1797,7 @@
     "day": 12,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5254020.845757
+    "kalan": 4983701.641819
   },
   {
     "id_class": 121,
@@ -1812,7 +1812,7 @@
     "day": 12,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5261220.845757
+    "kalan": 4990901.641819
   },
   {
     "id_class": 122,
@@ -1827,7 +1827,7 @@
     "day": 12,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5272020.845757
+    "kalan": 5001701.641819
   },
   {
     "id_class": 123,
@@ -1842,7 +1842,7 @@
     "day": 13,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5340420.845757
+    "kalan": 5070101.641819
   },
   {
     "id_class": 124,
@@ -1857,7 +1857,7 @@
     "day": 13,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5347620.845757
+    "kalan": 5077301.641819
   },
   {
     "id_class": 125,
@@ -1872,7 +1872,7 @@
     "day": 13,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5365620.845757
+    "kalan": 5095301.641819
   },
   {
     "id_class": 126,
@@ -1887,7 +1887,7 @@
     "day": 16,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 5605020.845757
+    "kalan": 5334701.641819
   },
   {
     "id_class": 127,
@@ -1902,7 +1902,7 @@
     "day": 17,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5686020.845757
+    "kalan": 5415701.641819
   },
   {
     "id_class": 128,
@@ -1917,7 +1917,7 @@
     "day": 17,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5693220.845757
+    "kalan": 5422901.641819
   },
   {
     "id_class": 129,
@@ -1932,7 +1932,7 @@
     "day": 17,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5704020.845757
+    "kalan": 5433701.641819
   },
   {
     "id_class": 130,
@@ -1947,7 +1947,7 @@
     "day": 17,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 5711220.845757
+    "kalan": 5440901.641819
   },
   {
     "id_class": 131,
@@ -1962,7 +1962,7 @@
     "day": 18,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5779620.845757
+    "kalan": 5509301.641819
   },
   {
     "id_class": 132,
@@ -1977,7 +1977,7 @@
     "day": 18,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5790420.845757
+    "kalan": 5520101.641819
   },
   {
     "id_class": 133,
@@ -1992,7 +1992,7 @@
     "day": 18,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 5797620.845757
+    "kalan": 5527301.641819
   },
   {
     "id_class": 134,
@@ -2007,7 +2007,7 @@
     "day": 19,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5858820.845757
+    "kalan": 5588501.641819
   },
   {
     "id_class": 135,
@@ -2022,7 +2022,7 @@
     "day": 19,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5866020.845757
+    "kalan": 5595701.641819
   },
   {
     "id_class": 136,
@@ -2037,7 +2037,7 @@
     "day": 19,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 5876820.845757
+    "kalan": 5606501.641819
   },
   {
     "id_class": 137,
@@ -2052,7 +2052,7 @@
     "day": 20,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5945220.845757
+    "kalan": 5674901.641819
   },
   {
     "id_class": 138,
@@ -2067,7 +2067,7 @@
     "day": 20,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5952420.845757
+    "kalan": 5682101.641819
   },
   {
     "id_class": 139,
@@ -2082,7 +2082,7 @@
     "day": 20,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 5970420.845757
+    "kalan": 5700101.641819
   },
   {
     "id_class": 140,
@@ -2097,7 +2097,7 @@
     "day": 23,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 6209820.845757
+    "kalan": 5939501.641819
   },
   {
     "id_class": 141,
@@ -2112,7 +2112,7 @@
     "day": 24,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6290820.845757
+    "kalan": 6020501.641819
   },
   {
     "id_class": 142,
@@ -2127,7 +2127,7 @@
     "day": 24,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6298020.845757
+    "kalan": 6027701.641819
   },
   {
     "id_class": 143,
@@ -2142,7 +2142,7 @@
     "day": 24,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6308820.845757
+    "kalan": 6038501.641819
   },
   {
     "id_class": 144,
@@ -2157,7 +2157,7 @@
     "day": 24,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6316020.845757
+    "kalan": 6045701.641819
   },
   {
     "id_class": 145,
@@ -2172,7 +2172,7 @@
     "day": 25,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 6384420.845757
+    "kalan": 6114101.641819
   },
   {
     "id_class": 146,
@@ -2187,7 +2187,7 @@
     "day": 25,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 6395220.845757
+    "kalan": 6124901.641819
   },
   {
     "id_class": 147,
@@ -2202,7 +2202,7 @@
     "day": 25,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 6402420.845757
+    "kalan": 6132101.641819
   },
   {
     "id_class": 148,
@@ -2217,7 +2217,7 @@
     "day": 26,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 6463620.845757
+    "kalan": 6193301.641819
   },
   {
     "id_class": 149,
@@ -2232,7 +2232,7 @@
     "day": 26,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 6470820.845757
+    "kalan": 6200501.641819
   },
   {
     "id_class": 150,
@@ -2247,7 +2247,7 @@
     "day": 26,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 6481620.845757
+    "kalan": 6211301.641819
   },
   {
     "id_class": 151,
@@ -2262,7 +2262,7 @@
     "day": 27,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 6550020.845757
+    "kalan": 6279701.641819
   },
   {
     "id_class": 152,
@@ -2277,7 +2277,7 @@
     "day": 27,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 6557220.845757
+    "kalan": 6286901.641819
   },
   {
     "id_class": 153,
@@ -2292,7 +2292,7 @@
     "day": 27,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 6575220.845757
+    "kalan": 6304901.641819
   },
   {
     "id_class": 154,
@@ -2307,7 +2307,7 @@
     "day": 30,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 6814620.845757
+    "kalan": 6544301.641819
   },
   {
     "id_class": 155,
@@ -2322,7 +2322,7 @@
     "day": 1,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6895620.845757
+    "kalan": 6625301.641819
   },
   {
     "id_class": 156,
@@ -2337,7 +2337,7 @@
     "day": 1,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6902820.845757
+    "kalan": 6632501.641819
   },
   {
     "id_class": 157,
@@ -2352,7 +2352,7 @@
     "day": 1,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6913620.845757
+    "kalan": 6643301.641819
   },
   {
     "id_class": 158,
@@ -2367,7 +2367,7 @@
     "day": 1,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 6920820.845757
+    "kalan": 6650501.641819
   },
   {
     "id_class": 159,
@@ -2382,7 +2382,7 @@
     "day": 2,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 6989220.845757
+    "kalan": 6718901.641819
   },
   {
     "id_class": 160,
@@ -2397,7 +2397,7 @@
     "day": 2,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 7000020.845757
+    "kalan": 6729701.641819
   },
   {
     "id_class": 161,
@@ -2412,7 +2412,7 @@
     "day": 2,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 7007220.845757
+    "kalan": 6736901.641819
   },
   {
     "id_class": 162,
@@ -2427,7 +2427,7 @@
     "day": 3,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7068420.845757
+    "kalan": 6798101.641819
   },
   {
     "id_class": 163,
@@ -2442,7 +2442,7 @@
     "day": 3,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7075620.845757
+    "kalan": 6805301.641819
   },
   {
     "id_class": 164,
@@ -2457,7 +2457,7 @@
     "day": 3,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7086420.845757
+    "kalan": 6816101.641819
   },
   {
     "id_class": 165,
@@ -2472,7 +2472,7 @@
     "day": 4,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7154820.845757
+    "kalan": 6884501.641819
   },
   {
     "id_class": 166,
@@ -2487,7 +2487,7 @@
     "day": 4,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7162020.845757
+    "kalan": 6891701.641819
   },
   {
     "id_class": 167,
@@ -2502,7 +2502,7 @@
     "day": 4,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7180020.845757
+    "kalan": 6909701.641819
   },
   {
     "id_class": 168,
@@ -2517,7 +2517,7 @@
     "day": 7,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 7419420.845757
+    "kalan": 7149101.641819
   },
   {
     "id_class": 169,
@@ -2532,7 +2532,7 @@
     "day": 8,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 7500420.845757
+    "kalan": 7230101.641819
   },
   {
     "id_class": 170,
@@ -2547,7 +2547,7 @@
     "day": 8,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 7507620.845757
+    "kalan": 7237301.641819
   },
   {
     "id_class": 171,
@@ -2562,7 +2562,7 @@
     "day": 8,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 7518420.845757
+    "kalan": 7248101.641819
   },
   {
     "id_class": 172,
@@ -2577,7 +2577,7 @@
     "day": 8,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 7525620.845757
+    "kalan": 7255301.641819
   },
   {
     "id_class": 173,
@@ -2592,7 +2592,7 @@
     "day": 9,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 7594020.845757
+    "kalan": 7323701.641819
   },
   {
     "id_class": 174,
@@ -2607,7 +2607,7 @@
     "day": 9,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 7604820.845757
+    "kalan": 7334501.641819
   },
   {
     "id_class": 175,
@@ -2622,7 +2622,7 @@
     "day": 9,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 7612020.845757
+    "kalan": 7341701.641819
   },
   {
     "id_class": 176,
@@ -2637,7 +2637,7 @@
     "day": 10,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7673220.845757
+    "kalan": 7402901.641819
   },
   {
     "id_class": 177,
@@ -2652,7 +2652,7 @@
     "day": 10,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7680420.845757
+    "kalan": 7410101.641819
   },
   {
     "id_class": 178,
@@ -2667,7 +2667,7 @@
     "day": 10,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 7691220.845757
+    "kalan": 7420901.641819
   },
   {
     "id_class": 179,
@@ -2682,7 +2682,7 @@
     "day": 11,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7759620.845757
+    "kalan": 7489301.641819
   },
   {
     "id_class": 180,
@@ -2697,7 +2697,7 @@
     "day": 11,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7766820.845757
+    "kalan": 7496501.641819
   },
   {
     "id_class": 181,
@@ -2712,7 +2712,7 @@
     "day": 11,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 7784820.845757
+    "kalan": 7514501.641819
   },
   {
     "id_class": 182,
@@ -2727,7 +2727,7 @@
     "day": 14,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 8024220.845757
+    "kalan": 7753901.641819
   },
   {
     "id_class": 183,
@@ -2742,7 +2742,7 @@
     "day": 15,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8105220.845757
+    "kalan": 7834901.641819
   },
   {
     "id_class": 184,
@@ -2757,7 +2757,7 @@
     "day": 15,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8112420.845757
+    "kalan": 7842101.641819
   },
   {
     "id_class": 185,
@@ -2772,7 +2772,7 @@
     "day": 15,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8123220.845757
+    "kalan": 7852901.641819
   },
   {
     "id_class": 186,
@@ -2787,7 +2787,7 @@
     "day": 15,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8130420.845757
+    "kalan": 7860101.641819
   },
   {
     "id_class": 187,
@@ -2802,7 +2802,7 @@
     "day": 16,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8198820.845757
+    "kalan": 7928501.641819
   },
   {
     "id_class": 188,
@@ -2817,7 +2817,7 @@
     "day": 16,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8209620.845757
+    "kalan": 7939301.641819
   },
   {
     "id_class": 189,
@@ -2832,7 +2832,7 @@
     "day": 16,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8216820.845757
+    "kalan": 7946501.641819
   },
   {
     "id_class": 190,
@@ -2847,7 +2847,7 @@
     "day": 17,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8278020.845757
+    "kalan": 8007701.641819
   },
   {
     "id_class": 191,
@@ -2862,7 +2862,7 @@
     "day": 17,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8285220.845757
+    "kalan": 8014901.641819
   },
   {
     "id_class": 192,
@@ -2877,7 +2877,7 @@
     "day": 17,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8296020.845757
+    "kalan": 8025701.641819
   },
   {
     "id_class": 193,
@@ -2892,7 +2892,7 @@
     "day": 18,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8364420.845757
+    "kalan": 8094101.641819
   },
   {
     "id_class": 194,
@@ -2907,7 +2907,7 @@
     "day": 18,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8371620.845757
+    "kalan": 8101301.641819
   },
   {
     "id_class": 195,
@@ -2922,7 +2922,7 @@
     "day": 18,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8389620.845757
+    "kalan": 8119301.641819
   },
   {
     "id_class": 196,
@@ -2937,7 +2937,7 @@
     "day": 21,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 8629020.845757
+    "kalan": 8358701.641819
   },
   {
     "id_class": 197,
@@ -2952,7 +2952,7 @@
     "day": 22,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8710020.845757
+    "kalan": 8439701.641819
   },
   {
     "id_class": 198,
@@ -2967,7 +2967,7 @@
     "day": 22,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8717220.845757
+    "kalan": 8446901.641819
   },
   {
     "id_class": 199,
@@ -2982,7 +2982,7 @@
     "day": 22,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8728020.845757
+    "kalan": 8457701.641819
   },
   {
     "id_class": 200,
@@ -2997,7 +2997,7 @@
     "day": 22,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 8735220.845757
+    "kalan": 8464901.641819
   },
   {
     "id_class": 201,
@@ -3012,7 +3012,7 @@
     "day": 23,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8803620.845757
+    "kalan": 8533301.641819
   },
   {
     "id_class": 202,
@@ -3027,7 +3027,7 @@
     "day": 23,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8814420.845757
+    "kalan": 8544101.641819
   },
   {
     "id_class": 203,
@@ -3042,7 +3042,7 @@
     "day": 23,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 8821620.845757
+    "kalan": 8551301.641819
   },
   {
     "id_class": 204,
@@ -3057,7 +3057,7 @@
     "day": 24,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8882820.845757
+    "kalan": 8612501.641819
   },
   {
     "id_class": 205,
@@ -3072,7 +3072,7 @@
     "day": 24,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8890020.845757
+    "kalan": 8619701.641819
   },
   {
     "id_class": 206,
@@ -3087,7 +3087,7 @@
     "day": 24,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 8900820.845757
+    "kalan": 8630501.641819
   },
   {
     "id_class": 207,
@@ -3102,7 +3102,7 @@
     "day": 25,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8969220.845757
+    "kalan": 8698901.641819
   },
   {
     "id_class": 208,
@@ -3117,7 +3117,7 @@
     "day": 25,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8976420.845757
+    "kalan": 8706101.641819
   },
   {
     "id_class": 209,
@@ -3132,7 +3132,7 @@
     "day": 25,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 8994420.845757
+    "kalan": 8724101.641819
   },
   {
     "id_class": 210,
@@ -3147,7 +3147,7 @@
     "day": 28,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 9233820.845757
+    "kalan": 8963501.641819
   },
   {
     "id_class": 211,
@@ -3162,7 +3162,7 @@
     "day": 29,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 9314820.845757
+    "kalan": 9044501.641819
   },
   {
     "id_class": 212,
@@ -3177,7 +3177,7 @@
     "day": 29,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 9322020.845757
+    "kalan": 9051701.641819
   },
   {
     "id_class": 213,
@@ -3192,7 +3192,7 @@
     "day": 29,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 9332820.845757
+    "kalan": 9062501.641819
   },
   {
     "id_class": 214,
@@ -3207,7 +3207,7 @@
     "day": 29,
     "day_verbal": "Pazartesi",
     "completed": false,
-    "kalan": 9340020.845757
+    "kalan": 9069701.641819
   },
   {
     "id_class": 215,
@@ -3222,7 +3222,7 @@
     "day": 30,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 9408420.845757
+    "kalan": 9138101.641819
   },
   {
     "id_class": 216,
@@ -3237,7 +3237,7 @@
     "day": 30,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 9419220.845757
+    "kalan": 9148901.641819
   },
   {
     "id_class": 217,
@@ -3252,7 +3252,7 @@
     "day": 30,
     "day_verbal": "Salı",
     "completed": false,
-    "kalan": 9426420.845757
+    "kalan": 9156101.641819
   },
   {
     "id_class": 218,
@@ -3267,7 +3267,7 @@
     "day": 31,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 9487620.845757
+    "kalan": 9217301.641819
   },
   {
     "id_class": 219,
@@ -3282,7 +3282,7 @@
     "day": 31,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 9494820.845757
+    "kalan": 9224501.641819
   },
   {
     "id_class": 220,
@@ -3297,7 +3297,7 @@
     "day": 31,
     "day_verbal": "Çarşamba",
     "completed": false,
-    "kalan": 9505620.845757
+    "kalan": 9235301.641819
   },
   {
     "id_class": 221,
@@ -3312,7 +3312,7 @@
     "day": 1,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 9574020.845757
+    "kalan": 9303701.641819
   },
   {
     "id_class": 222,
@@ -3327,7 +3327,7 @@
     "day": 1,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 9581220.845757
+    "kalan": 9310901.641819
   },
   {
     "id_class": 223,
@@ -3342,7 +3342,7 @@
     "day": 1,
     "day_verbal": "Perşembe",
     "completed": false,
-    "kalan": 9599220.845757
+    "kalan": 9328901.641819
   },
   {
     "id_class": 224,
@@ -3357,6 +3357,6 @@
     "day": 4,
     "day_verbal": "Pazar",
     "completed": false,
-    "kalan": 9838620.845757
+    "kalan": 9568301.641819
   }
 ]
